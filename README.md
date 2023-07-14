@@ -1,10 +1,11 @@
 # Tracker-Controller
 An Arduino Pro Micro-based gamepad code and pcb layout with mechanical key switches. Inspired by the M8 tracker by Dirtywave; suitable for headless use as well as other trackers that uses the NES-style layout, like LSDJ.
 Emmulates either joystick or keyboard commands.  Multiple alternate keymapping modes available, configured by holding a key during start up.  
-###Requirements:  Arduino Keyboard Library and Joystick library.
+Requires the Arduino Keyboard Library and Joystick library.
 
-materials:
-8x mechanical switches of your choice, Arduino Pro Micro, and 2x 12 pos sockets or pin headers
+PCB materials:
+8x mechanical switches of your choice, Arduino Pro Micro, and 2x 12 pos sockets or pin headers.
+Additionally you may want to add a bottom plate w/ standoffs and necessary hardware.
 
 Layout is single sided and suitable for home etching.   Uses either smd sockets or thru-hole sockets/pins for mounting the arduino.
 All the unused pins are 'broken out'in the pads along the edge and the 4 pads under the pro micro with VCC, GND, RX and TX ...for experimentation/modifications.  
