@@ -1,6 +1,6 @@
 # Tracker-Controller
-An Arduino Pro Micro gamepad with mechanical key. Inspired by the M8 tracker by Dirtywave; suitable for headless use, other trackers that uses the NES-style layout, like LSDJ.
-Emmulates either joystick or keyboard.  Multiple alternate keymapping modes available, 
+An Arduino Pro Micro gamepad with mechanical keys. Inspired by the M8 tracker by Dirtywave; suitable for headless use as well as other trackers that uses the NES-style layout, like LSDJ.
+Emmulates either joystick or keyboard commands.  Multiple alternate keymapping modes available, 
 configured by holding a key during start up.   The Arduino Keyboard Library and joystick library are used and will have to be installed.
 
 materials:
