@@ -8,7 +8,7 @@ Requires the Arduino Keyboard Library and Joystick library.
 
 # PCB materials:
 8x mechanical switches of your choice, Arduino Pro Micro, and 2x 12 pos sockets or pin headers.
-Additionally you may want to add a bottom plate w/ standoffs and necessary hardware.  Drill Holes for the standoffs are unmarked, but I found that a  3.25mm hole inset 3-3.5mm from each edge worked well.
+Additionally you may want to add a bottom plate w/ standoffs and necessary hardware.  Drill Holes for the standoffs are unmarked, but I found that a  3-3.5mm hole inset 3.25mm from each edge worked well.
 
 Layout is single sided and suitable for home etching.   Uses either smd sockets or thru-hole sockets/pins for mounting the arduino.
 All the unused pins are 'broken out'in the pads along the edge and the 4 pads under the pro micro with VCC, GND, RX and TX ...for experimentation/modifications.  
