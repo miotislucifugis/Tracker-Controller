@@ -15,7 +15,7 @@ All the unused pins are 'broken out'in the pads along the edge and the 4 pads un
 (print at 50%)
 ![M8Controller](https://github.com/miotislucifugis/Tracker-Controller/assets/20709580/824c516a-1140-4270-9e31-48e3c63163a6)
 
-![IMG_6123](https://github.com/miotislucifugis/Tracker-Controller/assets/20709580/6a89b1fc-1860-4b68-96fc-7c9e0496b182)
+![IMG_6123](https://github.com/miotislucifugis/Tracker-Controller/assets/20709580/a0326274-4fb9-4cc9-b157-71b3bacb663b)
 ![IMG_6124](https://github.com/miotislucifugis/Tracker-Controller/assets/20709580/db13a791-ddb8-406f-817d-024961ffe604)
 ![IMG_6125](https://github.com/miotislucifugis/Tracker-Controller/assets/20709580/2bb1b637-6040-4129-86ab-8fb88a3f6288)
 ![IMG_6127](https://github.com/miotislucifugis/Tracker-Controller/assets/20709580/c872e04b-8a14-4473-9a39-93ad2e8b57c6)
