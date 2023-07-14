@@ -3,6 +3,9 @@ An Arduino Pro Micro-based gamepad code and pcb layout with mechanical key switc
 Emmulates either joystick or keyboard commands.  Multiple alternate keymapping modes available, configured by holding a key during start up.  
 Requires the Arduino Keyboard Library and Joystick library.
 
+![IMG_6130](https://github.com/miotislucifugis/Tracker-Controller/assets/20709580/5c2fdf10-ad50-4445-98bf-8ce0abaa5ea4)
+
+
 # PCB materials:
 8x mechanical switches of your choice, Arduino Pro Micro, and 2x 12 pos sockets or pin headers.
 Additionally you may want to add a bottom plate w/ standoffs and necessary hardware.  Drill Holes for the standoffs are unmarked, but I found that a  3.25mm hole inset 3-3.5mm from each edge worked well.
@@ -11,3 +14,8 @@ Layout is single sided and suitable for home etching.   Uses either smd sockets 
 All the unused pins are 'broken out'in the pads along the edge and the 4 pads under the pro micro with VCC, GND, RX and TX ...for experimentation/modifications.  
 (print at 50%)
 ![M8Controller](https://github.com/miotislucifugis/Tracker-Controller/assets/20709580/824c516a-1140-4270-9e31-48e3c63163a6)
+
+![IMG_6123](https://github.com/miotislucifugis/Tracker-Controller/assets/20709580/6a89b1fc-1860-4b68-96fc-7c9e0496b182)
+![IMG_6124](https://github.com/miotislucifugis/Tracker-Controller/assets/20709580/db13a791-ddb8-406f-817d-024961ffe604)
+![IMG_6125](https://github.com/miotislucifugis/Tracker-Controller/assets/20709580/2bb1b637-6040-4129-86ab-8fb88a3f6288)
+![IMG_6127](https://github.com/miotislucifugis/Tracker-Controller/assets/20709580/c872e04b-8a14-4473-9a39-93ad2e8b57c6)
