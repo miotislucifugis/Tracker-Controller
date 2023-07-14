@@ -3,7 +3,7 @@ An Arduino Pro Micro-based USB gamepad code and pcb layout with mechanical key s
 Emmulates either joystick or keyboard commands.  Multiple alternate keymapping modes available, configured by holding a key during start up.  
 Requires the Arduino Keyboard Library and Joystick library.
 
-![IMG_6134](https://github.com/miotislucifugis/Tracker-Controller/assets/20709580/bbe99476-172a-40da-b91f-ef01e3365e2c)
+![IMG_6134(1)](https://github.com/miotislucifugis/Tracker-Controller/assets/20709580/0dc0f280-fe52-4ae3-ab38-853d563f7c10)
 
 
 # PCB materials:
