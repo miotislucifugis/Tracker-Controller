@@ -3,7 +3,7 @@ An Arduino Pro Micro-based gamepad code and pcb layout with mechanical key switc
 Emmulates either joystick or keyboard commands.  Multiple alternate keymapping modes available, configured by holding a key during start up.  
 Requires the Arduino Keyboard Library and Joystick library.
 
-PCB materials:
+# PCB materials:
 8x mechanical switches of your choice, Arduino Pro Micro, and 2x 12 pos sockets or pin headers.
 Additionally you may want to add a bottom plate w/ standoffs and necessary hardware.  Drill Holes for the standoffs are unmarked, but I found that a  3.25mm hole inset 3-3.5mm from each edge worked well.
 
