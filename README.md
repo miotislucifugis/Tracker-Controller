@@ -7,7 +7,7 @@ Requires the Arduino Keyboard Library and Joystick library.
 
 
 # PCB materials:
-8x (Cherry MX compatable) mechanical switches of your choice, Arduino Pro Micro, and 2x 12 pos sockets or pin headers.
+8x (Cherry MX compatable or Kaihl Choc- choose the appropriate layout) mechanical switches of your choice, Arduino Pro Micro, and 2x 12 pos sockets or pin headers.
 Additionally you may want to add a bottom plate w/ standoffs and necessary hardware.  Drill Holes for the standoffs are unmarked, but I found that a  3-3.5mm hole inset 3.25mm from each edge worked well.
 Switch hole dimensions are: 0.157" = 4mm  0.059" = 1.5mm  0.039" = 1mm  (if it is too tight of a fit, add .2-.5mm to each. Its good to center punch/mark these exactly before drilling to make sure all are in perfect alignment.)
 
